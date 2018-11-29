@@ -3,6 +3,7 @@
 1、添加依赖
 
  allprojects {
+ 
 		repositories {
 			...
 			maven { url 'https://jitpack.io' }
@@ -11,6 +12,7 @@
   
   
   dependencies {
+  
 	        implementation 'com.github.anaivez:PermissionHelp:master'
 	}
   
