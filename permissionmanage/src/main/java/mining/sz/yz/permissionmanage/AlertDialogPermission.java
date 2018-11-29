@@ -3,9 +3,7 @@ package mining.sz.yz.permissionmanage;
 import android.app.AlertDialog;
 import android.content.Context;
 
-/**
- * Created by Czm on 2018/11/29.
- */
+
 
 public class AlertDialogPermission extends AlertDialog {
 
