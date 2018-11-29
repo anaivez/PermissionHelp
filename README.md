@@ -20,9 +20,11 @@
   
   2、使用
   
-  权限管理方法在PermissionManage里面
-  PermissionManage.hasPermission是检查是否已有权限
-  PermissionManage.with是申请权限
+  1)权限管理方法在PermissionManage里
+ 
+  2)PermissionManage.hasPermission是检查是否已有权限
+  
+  3)PermissionManage.with申请权限,可以多组申请
    
    示例：
   
