@@ -7,9 +7,7 @@ import android.support.annotation.Nullable;
 import android.support.annotation.StringRes;
 
 
-/**
- * Created by Czm on 2018/11/29.
- */
+
 
 public class RationaleDialog {
     private AlertDialogPermission.Builder mBuilder;

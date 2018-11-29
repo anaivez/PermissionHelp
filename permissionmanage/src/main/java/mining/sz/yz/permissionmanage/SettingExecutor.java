@@ -7,9 +7,7 @@ import android.net.Uri;
 import android.provider.Settings;
 import android.support.annotation.NonNull;
 
-/**
- * Created by Czm on 2018/11/29.
- */
+
 
 public class SettingExecutor implements SettingService
 {

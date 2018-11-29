@@ -2,9 +2,7 @@ package mining.sz.yz.permissionmanage;
 
 import android.support.annotation.NonNull;
 
-/**
- * Created by Czm on 2018/11/29.
- */
+
 
 public interface Permission {
     @NonNull

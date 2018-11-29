@@ -6,9 +6,7 @@ import android.os.Build;
 import android.support.v4.app.ActivityCompat;
 import android.support.v4.app.Fragment;
 
-/**
- * Created by Czm on 2018/11/29.
- */
+
 
 public class PermissionUtils
 {

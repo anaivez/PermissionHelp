@@ -11,9 +11,7 @@ import android.support.v4.app.ActivityCompat;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by Czm on 2018/11/29.
- */
+
 
 public class DefaultPermission implements Permission {
     private String[] permissions;
